@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "description": "Wireless noise-cancelling earbuds with spatial audio and USB-C charging case.",
+    "price": 249
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 6",
+    "description": "Smartwatch with fitness tracking, heart rate monitoring, and AMOLED display.",
+    "price": 299
+  }
+]
